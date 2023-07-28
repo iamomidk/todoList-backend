@@ -1,7 +1,3 @@
-# todoList-backend
-
-Certainly! Below is the README file written in Markdown format:
-
 # Todo List Web Application (Golang + Gin)
 
 ![Todo List Web Application](/path/to/your/app-screenshot.png)
